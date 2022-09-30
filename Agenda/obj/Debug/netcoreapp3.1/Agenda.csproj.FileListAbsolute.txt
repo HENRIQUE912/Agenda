@@ -1,0 +1,7 @@
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.AssemblyReference.cache
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.Menu.resources
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.GenerateResource.cache
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+D:\SENAI\C#\Modulo ORIENTE AO OBJETO (terminar)\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
